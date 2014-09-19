@@ -1,24 +1,4 @@
 INDEX VERSION 1.126+C:\GithubTest\ProjectTest01\ProjectTest01\.metadata\.plugins\org.eclipse.jdt.core
-1375498236.index
-663748932.index
 2026610250.index
-1782425044.index
-1997679725.index
-4269113394.index
-1624759607.index
 3271193799.index
-1449173029.index
-3530899494.index
-991920093.index
-3437655923.index
-1642581861.index
-1619694066.index
-2861165019.index
-2920180421.index
-1224346127.index
-161965635.index
-1381540626.index
-3187125938.index
-877163322.index
-513452897.index
 1248741553.index
